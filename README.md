@@ -4,7 +4,7 @@ I'm Maxi, a history student currently studying at the University Heidelberg.
 
 On this Github account, I will occasionally publish projects that i am working on.
 
-My biggest project yet, my GIS-based Bachelor degree about the Swabian Children migration, is already [online](https://github.com/xeilian/schwabenkinder)!
+My biggest project yet, my GIS-based Bachelor thesis about the Swabian Children migration, is already [online](https://github.com/xeilian/schwabenkinder)!
 
 Have fun, Maxi ✨
 
