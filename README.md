@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, welcome to my Github profile 👋
+
+I'm Maxi, a history student currently studying at the University Heidelberg.
+
+On this Github account, I will occasionally publish projects that i am working on.
+
+My biggest project yet, my GIS-based Bachelor degree about the Swabian Children migration, is already [online](https://github.com/xeilian/schwabenkinder)!
+
+Have fun, Maxi ✨
 
 <!--
 **xeilian/xeilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
